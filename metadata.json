@@ -1,0 +1,5 @@
+{
+  "name": "Calculator",
+  "description": "A modern and functional web calculator designed for mobile use. This application is built using React and Tailwind CSS, featuring a beautiful and responsive user interface.",
+  "requestFramePermissions": []
+}
